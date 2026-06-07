@@ -16,6 +16,7 @@ A command-line version control system built from scratch in Java 17, mirroring c
 `Java 17` `File I/O` `SHA-1 Hashing` `OOP` `SOLID Principles`
 
 ## Project Structure
+'''
 src/
 └── main/
     └── java/
@@ -33,7 +34,7 @@ src/
                 ├── Blob.java
                 ├── Tree.java
                 └── Commit.java
-
+'''
 
 ## How to Run
 ```bash
